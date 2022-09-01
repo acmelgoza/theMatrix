@@ -1,0 +1,115 @@
+===============Sales Person Report================
+Name                	# of Sales	    Totals
+     Dylan, Jeff                 2          752.75
+     Henry, Bob                  2         1907.39
+==================================================
+                                 4         2660.14
+===========================Store Report===========================
+Store Code	Manager             	# of Sales	    Totals
+123kii       Dylan, Jeff                 2                   752.75
+456ijj       Henry, Bob                  2                  1907.39
+==================================================================
+                                         4                  2660.14
+
+Sale  	#dsjlkf3
+Store	#123kii
+Customer:
+Melgoza, Adrian	[adrian@gmail.com, adrian2@unl.edu]
+123 Fake St.
+Lincoln, Nebraska 68503
+
+Sales Person:
+Dylan, Jeff	[jeff@gmail.com]
+843 State St.
+New York City, New York 74930
+==========================================================================
+
+Xbox
+(New Product #abc123 1 @ 300.00)$ 300.00
+
+Playstation
+(Used Product #efc254 1 @ 240.00)$ 240.00
+
+Keyboard
+(New Product #lnm541 1 @ 60.00)$ 60.00
+
+					 ===========
+				Subtotal:$    600.00
+				     Tax:$     42.00
+			    Discount: 7% $     44.94
+				   Total:$    597.06
+
+Sale  	#lkdjs44
+Store	#123kii
+Customer:
+Gatto, Joe	[joe@gmail.com]
+393 Dairy Ln.
+Athens, Georgia 93939
+
+Sales Person:
+Dylan, Jeff	[jeff@gmail.com]
+843 State St.
+New York City, New York 74930
+==========================================================================
+
+Mouse
+(New Product #tlc348 1 @ 50.00)$ 50.00
+
+Headset
+(Used Product #amc299 1 @ 80.00)$ 80.00
+
+Mouse pad
+(New Product #fff111 1 @ 20.00)$ 20.00
+
+					 ===========
+				Subtotal:$    150.00
+				     Tax:$     10.50
+			    Discount: 3% $      4.81
+				   Total:$    155.69
+
+Sale  	#oie883
+Store	#456ijj
+Customer:
+Melgoza, Adrian	[adrian@gmail.com, adrian2@unl.edu]
+123 Fake St.
+Lincoln, Nebraska 68503
+
+Sales Person:
+Henry, Bob	[bob@gmail.com]
+383 Country St.
+Austin, Texas 92920
+==========================================================================
+
+Apple
+(Gift Card #eee222 1 @ 1000.00)$ 1000.00
+
+Computer Repair
+(Service #goo39 5 hours @ 79.99 / hour)$ 399.95
+
+					 ===========
+				Subtotal:$   1399.95
+				     Tax:$     93.00
+			    Discount: 7% $    104.51
+				   Total:$   1388.44
+
+Sale  	#083hjd
+Store	#456ijj
+Customer:
+Gatto, Joe	[joe@gmail.com]
+393 Dairy Ln.
+Athens, Georgia 93939
+
+Sales Person:
+Henry, Bob	[bob@gmail.com]
+383 Country St.
+Austin, Texas 92920
+==========================================================================
+
+Microsoft
+(Gift Card #ddd333 1 @ 500.00)$ 500.00
+
+					 ===========
+				Subtotal:$    500.00
+				     Tax:$     35.00
+			    Discount: 3% $     16.05
+				   Total:$    518.95
